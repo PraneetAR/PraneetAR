@@ -59,14 +59,6 @@ mantra     : Consistency > Perfection
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraneetAR&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
