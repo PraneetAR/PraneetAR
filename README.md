@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:0d2137,100:0d1117&height=160&text=Praneet%20A.R&fontColor=58a6ff&fontSize=55&fontAlignY=55&desc=Cloud%20Engineer%20in%20progress.%20MSc%20Cybersecurity.&descAlignY=75&descSize=16&descColor=8b949e&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:0d2137,100:0d1117&height=160&text=Praneet%20A.R&fontColor=58a6ff&fontSize=55&fontAlignY=55&desc=%20MSc%20Cybersecurity.&descAlignY=75&descSize=16&descColor=8b949e&animation=blinking" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real+systems%2C+not+toy+projects.;Cloud+%2B+Security+%3D+my+stack+of+choice.;Deploy+first%2C+perfect+later." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real+systems%2C+not+toy+projects.;Deploy+first%2C+perfect+later." />
 
 <br/>
 
