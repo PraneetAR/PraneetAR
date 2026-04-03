@@ -15,7 +15,7 @@
 
 ---
 
-## `whoami`
+## `About Me`
 
 ```yaml
 name       : Praneet A.R
@@ -103,13 +103,6 @@ mantra     : Consistency > Perfection
 
 ---
 
-## ⏱️ Coding Time *(via WakaTime — updates daily)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PraneetAR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact" />
-</div>
-
----
 
 ## 🌐 Let's Connect
 
