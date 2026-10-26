@@ -5,10 +5,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real+systems%2C+not+toy+projects.;Deploy+first%2C+perfect+later." />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=PraneetAR&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
